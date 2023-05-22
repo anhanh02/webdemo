@@ -1,23 +1,4 @@
-<!-- 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Đăng Nhập</title>
-</head>
-<body>
-    <div>
-        <form action="login.php" <?php htmlspecialchars($_SERVER["PHP_SELF"])?> method ="post">
-            <h1>Trang Đăng Nhập </h1>
-            Tên đăng nhập: <br> <input type="text" name="email"><br>
-            Mật khẩu: <br> <input type="password" name="pass"><br>
-            <input type="submit" value="Đăng Nhập" name="login">
-        </form>
-    </div>
-</body>
-</html> -->
+
 
 
 <?php
