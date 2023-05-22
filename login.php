@@ -77,11 +77,11 @@
     }
 ?>
 
-<form action="login.php" method="post">
+<!-- <form action="login.php" method="post">
     <label > Email </label>
     <input type="text" name="email" id="email" >
     <label> Password </label>
     <input type="password" name="password" id="pass">
     <button type="submit" name="login"> Đăng nhập</button>
 
-</form>
+</form> -->
